@@ -1,0 +1,10 @@
+/home/rodolfo/Documents/Development/CS_Projects/Project_01/MVCAppWUnitTest/MVCAppWUnitTest.Tests/bin/Debug/MVCAppWUnitTest.Tests.dll
+/home/rodolfo/Documents/Development/CS_Projects/Project_01/MVCAppWUnitTest/MVCAppWUnitTest.Tests/bin/Debug/MVCAppWUnitTest.Tests.pdb
+/home/rodolfo/Documents/Development/CS_Projects/Project_01/MVCAppWUnitTest/MVCAppWUnitTest.Tests/bin/Debug/MVCAppWUnitTest.dll
+/home/rodolfo/Documents/Development/CS_Projects/Project_01/MVCAppWUnitTest/MVCAppWUnitTest.Tests/bin/Debug/nunit.framework.dll
+/home/rodolfo/Documents/Development/CS_Projects/Project_01/MVCAppWUnitTest/MVCAppWUnitTest.Tests/bin/Debug/MVCAppWUnitTest.pdb
+/home/rodolfo/Documents/Development/CS_Projects/Project_01/MVCAppWUnitTest/MVCAppWUnitTest.Tests/bin/Debug/nunit.framework.xml
+/home/rodolfo/Documents/Development/CS_Projects/Project_01/MVCAppWUnitTest/MVCAppWUnitTest.Tests/obj/Debug/MVCAppWUnitTest.Tests.csprojResolveAssemblyReference.cache
+/home/rodolfo/Documents/Development/CS_Projects/Project_01/MVCAppWUnitTest/MVCAppWUnitTest.Tests/obj/Debug/MVCAppWUnitTest.Tests.csproj.CoreCompileInputs.cache
+/home/rodolfo/Documents/Development/CS_Projects/Project_01/MVCAppWUnitTest/MVCAppWUnitTest.Tests/obj/Debug/MVCAppWUnitTest.Tests.dll
+/home/rodolfo/Documents/Development/CS_Projects/Project_01/MVCAppWUnitTest/MVCAppWUnitTest.Tests/obj/Debug/MVCAppWUnitTest.Tests.pdb

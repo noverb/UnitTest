@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCAppWUnitTest", "MVCAppWUnitTest\MVCAppWUnitTest.csproj", "{291436E5-D82C-4AE0-B665-EFBBE1E27D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCAppWUnitTest.Tests", "MVCAppWUnitTest.Tests\MVCAppWUnitTest.Tests.csproj", "{5E162434-EC09-49E8-9BB6-EBF2A8D69C7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{291436E5-D82C-4AE0-B665-EFBBE1E27D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291436E5-D82C-4AE0-B665-EFBBE1E27D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291436E5-D82C-4AE0-B665-EFBBE1E27D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291436E5-D82C-4AE0-B665-EFBBE1E27D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E162434-EC09-49E8-9BB6-EBF2A8D69C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E162434-EC09-49E8-9BB6-EBF2A8D69C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E162434-EC09-49E8-9BB6-EBF2A8D69C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E162434-EC09-49E8-9BB6-EBF2A8D69C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

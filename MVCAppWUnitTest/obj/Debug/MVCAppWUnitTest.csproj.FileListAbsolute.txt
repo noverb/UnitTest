@@ -1,0 +1,5 @@
+/home/rodolfo/Documents/Development/CS_Projects/Project_01/MVCAppWUnitTest/MVCAppWUnitTest/bin/MVCAppWUnitTest.dll
+/home/rodolfo/Documents/Development/CS_Projects/Project_01/MVCAppWUnitTest/MVCAppWUnitTest/bin/MVCAppWUnitTest.pdb
+/home/rodolfo/Documents/Development/CS_Projects/Project_01/MVCAppWUnitTest/MVCAppWUnitTest/obj/Debug/MVCAppWUnitTest.csproj.CoreCompileInputs.cache
+/home/rodolfo/Documents/Development/CS_Projects/Project_01/MVCAppWUnitTest/MVCAppWUnitTest/obj/Debug/MVCAppWUnitTest.dll
+/home/rodolfo/Documents/Development/CS_Projects/Project_01/MVCAppWUnitTest/MVCAppWUnitTest/obj/Debug/MVCAppWUnitTest.pdb
